@@ -3,13 +3,13 @@
 DESCRIPTION
 ---------------------------------------
 This project had created at Java lessons in my univercity as a team project of 3 peoples.
-
+We create the project with Java 8 with NetBeans for IDE and the Swing for the UI. 
 We used Scrum Methodology and I was the Scrum Master of the team. My basic role was to organized the team with the tasks,
 the backend part of the project and the APIs calls. 
 
 DOCUMENTATION
 ---------------------------------------
-R1) Has a main screen with the menu for the APP. 
+R1) The main screen of the app in the navigation menu. 
 
 ![image](https://user-images.githubusercontent.com/64380802/185761545-602291b8-c3dc-47e7-941d-193fc158c70a.png)
 
